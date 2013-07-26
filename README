@@ -1,0 +1,10 @@
+HelloWorld
+
+- Git Demo
+
+1. download and install Git from git-scm.com/download
+2. config the user.name and user.email to match github account
+3. create or navigate to project directory
+4. run command “git init”
+5. create README file “touch README”
+6. 
